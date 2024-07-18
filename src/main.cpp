@@ -1,5 +1,5 @@
+#include "hiredis/hiredis.h"
 #include <iostream>
-#include "hiredis"/hiredis.h"
 
 int main() {
     // 建立 Redis 连接

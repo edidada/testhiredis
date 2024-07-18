@@ -4,6 +4,9 @@ git submodule add -b v1.2.0 https://github.com/redis/hiredis.git third_party/hir
 git submodule update --init --recursive
 
 ## doc
+条件编译
+#ifndef _MSC_VER
+
 
 ### 头文件
 
