@@ -1,4 +1,4 @@
-[submodule "third_party/hiredis"]
+[submodule "hiredis"]
 	path = third_party/hiredis
 	url = https://github.com/redis/hiredis.git
 	branch = v1.2.0
